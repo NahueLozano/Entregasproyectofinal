@@ -112,7 +112,7 @@
 
 #grilla{
     display: grid;
-    grid-template-areas:
+    grid-template-areas;
     grid-template-rows: 760px;
     grid-template-columns: 15% auto 45%;
     grid-column-gap: 20px;
